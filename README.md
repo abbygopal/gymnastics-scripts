@@ -1,5 +1,5 @@
 ## 2024 Women's Olympic Gymnastics Scoring Analysis
-📘 Project Overview
+Project Overview
 
 This project was created to analyze women’s artistic gymnastics scores from the 2024 Olympic Games.
 The main goal was to investigate how Difficulty (D) scores and Execution (E) scores contribute to the final total score, and to explore which factor has a stronger influence on performance outcomes.
